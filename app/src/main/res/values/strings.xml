@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CrimeIntent</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">List Fragment</string>
+    <string name="info_fragment_label">Info Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="tip_title">标题</string>
+    <string name="tip_date">日期</string>
+    <string name="not_solved">not solved</string>
+    <string name="tip_title_input">输入陋习的标题</string>
+    <string name="tip_detail">详情</string>
+    <string name="tip_solved_input">是否已解决</string>
+</resources>
